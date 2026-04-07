@@ -4,7 +4,8 @@
 
 Active development attention has moved to:
 
-- `https://github.com/timmchugh11/homeassitant-starlink-card`
+- [homeassitant-starlink-card](https://github.com/timmchugh11/homeassitant-starlink-card)
+
 ![New Starlink card screenshot](img/starlink-card.png)
 ![New Starlink card screenshot 2](img/starlink-card1.png)
 
